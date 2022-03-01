@@ -1,0 +1,77 @@
+2022-01-31 09:17:38 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-01-31 09:17:38 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-01-31 09:17:39 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-01-31 09:17:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(589) - The session is not set in the property file.
+2022-01-31 09:17:39 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2022-01-31 09:17:39 INFO  ApacheHttpClient.login(254) - responseCode = 200
+2022-01-31 09:17:39 INFO  ApacheHttpClient.login(277) - JSESSIONID OK
+2022-01-31 09:17:39 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-01-31 09:17:39 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-01-31 09:17:39 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-01-31 09:17:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-31 09:17:42 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-31 09:17:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-31 09:17:52 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-31 09:17:54 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-01-31 09:17:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com
+2022-01-31 09:17:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com/javarush
+2022-01-31 09:17:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com/javarush/task
+2022-01-31 09:17:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task36
+2022-01-31 09:17:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task36/task3602
+2022-01-31 09:33:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-31 09:33:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-31 09:33:36 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-31 09:38:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-31 09:38:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-31 09:38:47 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-01 15:42:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-01 15:42:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-01 15:42:21 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-01 15:43:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-01 15:43:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-01 15:43:40 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-01 15:43:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-01 15:44:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-01 15:44:54 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-01 15:44:55 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-01 15:44:55 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task36/task3603
+2022-02-01 15:44:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-01 15:49:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-01 15:49:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-01 15:49:28 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-01 15:49:28 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 11:43:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-02 11:43:32 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-02 11:43:33 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-02 11:43:33 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task36/task3605
+2022-02-02 11:43:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 12:10:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-02 12:10:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-02 12:11:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-02 12:11:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 12:11:25 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-02 12:16:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-02 12:16:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 12:16:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-02 12:23:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-02 12:23:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 12:23:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-02 12:24:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-02 12:24:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 12:24:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-02 12:24:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 12:24:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-02 12:24:29 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-02 12:24:30 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-02 12:24:30 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/YandexDisk/Java/JavaRush/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task36/task3604
+2022-02-02 12:24:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-02 12:24:31 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-03 12:22:04 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-02-03 12:22:04 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-02-03 12:22:04 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-02-03 12:22:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-02-03 12:22:04 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-02-03 12:22:04 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-02-03 12:22:04 INFO  ApacheHttpClient.startGA(36) - GAService started.

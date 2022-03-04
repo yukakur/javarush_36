@@ -1,0 +1,15 @@
+
+J
+java:S3740Q"/Provide the parametrized type for this generic.(ÁÞ˜þÿÿÿÿ
+;
+java:S2157"%Add a "clone()" method to this class.(ø³Íë
+A
+java:S2160"+Override the "equals" method in this class.(ø³Íë
+;
+java:S1948"%Make "map" transient or serializable.( ÀõÏ
+;
+java:S1481f"&Remove this unused "v" local variable.(Ž¿ 
+Y
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ
+¢
+java:S26819"†This line will not be executed conditionally; only the first line of this 3-line block will be. The rest will execute unconditionally.(¦å™Šÿÿÿÿÿ

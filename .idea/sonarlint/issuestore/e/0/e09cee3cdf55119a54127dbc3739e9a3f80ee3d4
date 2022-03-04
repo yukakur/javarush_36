@@ -1,0 +1,28 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(ÔÁÚD
+J
+java:S3740"/Provide the parametrized type for this generic.(¥íâøûÿÿÿÿ
+J
+java:S3740 "/Provide the parametrized type for this generic.(Ô–àÅûÿÿÿÿ
+J
+java:S3740""/Provide the parametrized type for this generic.(£Ú†Þúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØÜ§´
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÔÁÚD
+Ž
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(ÔÁÚD
+Z
+java:S2147)"DCombine this catch with the one at line 39, which has the same body.(åþáÿ
+B
+java:S3011!",This accessibility update should be removed.(”ÝÙ®
+Q	java:S125("<This block of commented-out lines of code should be removed.(†€éˆ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(†€éˆ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128	"1Remove this unused import 'java.util.LinkedList'.(»Äð1
+E
+java:S1066"/Merge this if statement with the enclosing one.(çŠ¼˜
+E
+java:S1066"/Merge this if statement with the enclosing one.(»¹é

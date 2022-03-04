@@ -23,8 +23,6 @@ M
 1.JavaSyntax/1.JavaSyntax.iml,1\b\1b31929571547a4b6e37c4446a689c7c6c186b0b
 K
 1.JavaSyntax/src/Quest.info,9\4\94e1f1d4c2dfffa5d97dd9307dcb12602975c54f
-W
-'4.JavaCollections/4.JavaCollections.iml,7\6\760a68f31e5dbde841fd565c657a1d2c3bf408a8
 P
  4.JavaCollections/src/Quest.info,1\0\10dca0b6f8af9fe868679460450a95b6b4cb032e
 {
@@ -53,8 +51,6 @@ K4.JavaCollections/src/com/javarush/task/task36/task3606/Условие.jrtc,e\
 M4.JavaCollections/src/com/javarush/task/task33/task3310/ExceptionHandler.java,e\b\ebf5c5169e3781ba4c195d30762e3f3ec3d5c1f1
 �
 ]4.JavaCollections/src/com/javarush/task/task36/task3606/data/second/FirstHiddenClassImpl.java,e\a\ea412628c97a9c2b2b24770b4a5e7b3b79e2cf91
-�
-\4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/HashMapStorageStrategy.java,8\6\869c2d6a779c332384a03d950c96f9fca204cbe8
 s
 C4.JavaCollections/src/com/javarush/task/task33/task3310/Helper.java,a\2\a227f005a31957e5faa86a4052ebd3702b55fa43
 x

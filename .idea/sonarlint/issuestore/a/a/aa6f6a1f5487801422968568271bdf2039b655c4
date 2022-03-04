@@ -1,0 +1,20 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ÍÔŒ„
+J
+java:S3740)"/Provide the parametrized type for this generic.(’õå¥úÿÿÿÿ
+D
+java:S3740,"/Provide the parametrized type for this generic.(Åå¢'
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åŠîåûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å…Å’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó›¼×
+B
+java:S30112",This accessibility update should be removed.(”İÙ®
+Z
+java:S21477"DCombine this catch with the one at line 53, which has the same body.(Å¡ß
+Z
+java:S21479"DCombine this catch with the one at line 53, which has the same body.(åşáÿ
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8äŸ¨£ô/
+_
+java:S22592"IA "NullPointerException" could be thrown; "constructor" is nullable here.(”İÙ®

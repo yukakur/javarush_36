@@ -47,12 +47,8 @@ K4.JavaCollections/src/com/javarush/task/task36/task3611/Условие.jrtc,7\
 K4.JavaCollections/src/com/javarush/task/task36/task3607/Условие.jrtc,b\9\b92397dc33352c37b4b1fb27e27483738dc16dbd
 {
 K4.JavaCollections/src/com/javarush/task/task36/task3606/Условие.jrtc,e\0\e06e55459e5bc5f7102f11f9f3368c5c86db5e78
-}
-M4.JavaCollections/src/com/javarush/task/task33/task3310/ExceptionHandler.java,e\b\ebf5c5169e3781ba4c195d30762e3f3ec3d5c1f1
 �
 ]4.JavaCollections/src/com/javarush/task/task36/task3606/data/second/FirstHiddenClassImpl.java,e\a\ea412628c97a9c2b2b24770b4a5e7b3b79e2cf91
-s
-C4.JavaCollections/src/com/javarush/task/task33/task3310/Helper.java,a\2\a227f005a31957e5faa86a4052ebd3702b55fa43
 x
 H4.JavaCollections/src/com/javarush/task/task36/task3606/HiddenClass.java,a\9\a924abbf43fcf157e80f594858d8977b5ca92ac3
 z
@@ -65,8 +61,6 @@ y
 I4.JavaCollections/src/com/javarush/task/task36/task3604/RedBlackTree.java,e\9\e96ade0ca9c3711813fa496817eb6ae70fc5caac
 �
 ^4.JavaCollections/src/com/javarush/task/task36/task3606/data/second/SecondHiddenClassImpl.java,7\f\7f15a43394c7003085037a1d783110d94e91fac8
-v
-F4.JavaCollections/src/com/javarush/task/task33/task3310/Shortener.java,5\9\59f4386879c4a14c6c8524e5382577979b2813dd
 u
 E4.JavaCollections/src/com/javarush/task/task36/task3602/Solution.java,e\0\e09cee3cdf55119a54127dbc3739e9a3f80ee3d4
 u
@@ -87,5 +81,11 @@ u
 E4.JavaCollections/src/com/javarush/task/task36/task3612/Solution.java,8\e\8e764c1c5d46fea0507deea1ff37a245c49ae0c4
 u
 E4.JavaCollections/src/com/javarush/task/task36/task3613/Solution.java,f\1\f16986bb6b216d79bc6eaaa71a69f3dbb9a17b6e
-�
-U4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/StorageStrategy.java,2\4\246c4fa246eba829e8fd348d1167a91704513393
+�
+Y4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/FileStorageStrategy.java,d\2\d22b9744c966681b45423c39a169d1abf7320a28
+�
+\4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/HashMapStorageStrategy.java,8\6\869c2d6a779c332384a03d950c96f9fca204cbe8
+�
+^4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/HashBiMapStorageStrategy.java,0\4\045d40c51bb3ed595601e6c3bd44af16668663e7
+�
+a4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/OurHashBiMapStorageStrategy.java,a\c\acb36062c587b72b566ad9a0402b2d4592ae772f
